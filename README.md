@@ -34,7 +34,7 @@ I'm a Minecraft server builder focused on setting up **professional, optimized s
 
 ---
 
-## ✔️ Worked with:
+## ✔️ Worked with
 - Zetox Network (Closed)
 
 ---
