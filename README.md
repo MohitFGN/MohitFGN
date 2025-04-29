@@ -18,6 +18,7 @@ I'm a Minecraft server builder focused on setting up **professional, optimized s
 
 ### 🔹 Server Builds
 - Configured full **Survival** and **Lifesteal** servers with over 30+ plugins.
+- Configured servers types : Vanilla, boxpvp, skymines, prison, FFA, Gens.
 - Specialized in **optimizing** performance (reducing lag, tweaking server configs).
 - Built **custom menus** using DeluxeMenus, ChestCommands, and other GUI plugins.
 
