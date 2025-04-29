@@ -18,9 +18,9 @@ I'm a Minecraft server builder focused on setting up **professional, optimized s
 
 ### 🔹 Server Builds
 - Configured full **Survival** and **Lifesteal** servers with over 30+ plugins.
-- Configured servers types : Vanilla, boxpvp, skymines, prison, FFA, Gens.
-- Specialized in **optimizing** performance (reducing lag, tweaking server configs).
-- Built **custom menus** using DeluxeMenus, ChestCommands, and other GUI plugins.
+- Set up **Vanilla**, **BoxPvP**, **Skymines**, **Prison**, **FFA**, **Gens**, and other gamemodes.
+- Specialized in **optimizing** server performance (reducing lag, tweaking configs).
+- Built custom menus using **DeluxeMenus**, **ChestCommands**, and other GUI plugins.
 
 ### 🔹 Plugin Configuration
 - LuckPerms group systems for easy server management
@@ -35,8 +35,8 @@ I'm a Minecraft server builder focused on setting up **professional, optimized s
 
 ---
 
-## ✔️ Worked with
-- Zetox Network (Closed)
+## ✔️ Contributed to
+- **Zetox Network**: Contributed to server Design and plugin configurations (now closed).
 
 ---
 
@@ -46,5 +46,10 @@ I'm a Minecraft server builder focused on setting up **professional, optimized s
 📩 Contact me on [Discord](https://discord.gg/hA4ujT9T8K) (`mohitfgn`) or open an issue on any repo if you have questions.
 
 ---
+
+## 📜 License & Credits
+- This profile was built using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
+- All plugin setups use publicly available resources and documentation from respective plugin creators.
+
 
 > *"Great servers aren’t just built — they’re crafted."*
