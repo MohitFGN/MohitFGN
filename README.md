@@ -43,7 +43,7 @@ I'm a Minecraft server builder focused on setting up **professional, optimized s
 ## 💬 Let's Connect
 🧠 Always open to collaboration on server setups, plugin configs, and server optimization.
 
-📩 Contact me on [Discord]([https://discord.com/](https://discord.gg/hA4ujT9T8K)) (`mohitfgn`) or open an issue on any repo if you have questions.
+📩 Contact me on [Discord](https://discord.gg/hA4ujT9T8K) (`mohitfgn`) or open an issue on any repo if you have questions.
 
 ---
 
