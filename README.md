@@ -37,6 +37,7 @@ I'm a Minecraft server builder focused on setting up **professional, optimized s
 
 ## ✔️ Contributed to
 - **Zetox Network**: Contributed to server Design and plugin configurations (now closed).
+- **GamesOnFire Network**: Contributed to server plugin configurations, fixing bugs (resigned)
 
 ---
 
