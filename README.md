@@ -10,7 +10,7 @@ I'm a Minecraft server builder focused on setting up **professional, optimized s
 - 🔧 **Plugin Setup**: LuckPerms, Deluxemenus, EssentialsX, WorldGuard, Multiverse, Authme, and more
 - ⚙️ **Server Types**: Survival, Skyblock, Lifesteal, Boxpvp, Skymines, FFA gamemodes, and more
 - 🖥️ **Server Platforms**: Bungee-cord, Velocity, Spigot, Paper
-- 💻 **Tech Tools**: YAML, MySQL, FTP
+- 💻 **Tech Tools**: FTP
 - 🎨 **Extras**: Custom GUIs, Scoreboards, Menus, Permissions, tab, voting system
 ---
 
